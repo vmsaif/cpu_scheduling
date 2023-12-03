@@ -1,0 +1,10 @@
+# Object files
+*.
+*.o
+*.ko
+*.obj
+*.elf
+
+
+# VS Code settings
+.vscode/
