@@ -50,7 +50,7 @@ The program requires three command-line arguments:
 ## Make Run
 
 With 1,2,3,4 CPUs, and 1000ms, 3000ms, 5000ms, 7000ms boost time, on tasks.txt:
-```bash
+
 or, with make:
 ```bash
 make run
