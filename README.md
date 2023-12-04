@@ -1,5 +1,7 @@
 # CPU Scheduling Simulator
 
+[![Hits](https://hits.sh/github.com/vmsaif/cpu_scheduling.svg?label=Visits&color=100b75)](https://hits.sh/github.com/vmsaif/cpu_scheduling/)
+
 ## Overview
 This program simulates a Multi-Level Feedback Queue (MLFQ) scheduling policy on a multi-CPU system. It's designed to emulate the behavior of scheduling tasks on multiple CPUs using threads, where each CPU is represented by a thread. The program compares the performance of different scheduling policies using this simulation.
 
